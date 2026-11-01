@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Mapa de mesas electorales · Madrid</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.min.css">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header id="bar">
+  <strong class="brand">Mesas electorales · Madrid</strong>
+  <div class="search">
+    <input id="q" type="search" placeholder="Buscar centro, calle o distrito…" autocomplete="off" aria-label="Buscar ubicación">
+    <ul id="results" hidden></ul>
+  </div>
+  <span id="count" class="count" title="Ubicaciones en el mapa / pendientes"></span>
+  <button id="btnPanel" aria-expanded="false" aria-controls="panel" title="Filtros y capas">☰ <span class="lbl">Filtros</span></button>
+  <button id="btnReset" title="Restablecer vista inicial">⟲ <span class="lbl">Inicio</span></button>
+  <button id="btnAll" title="Encuadrar todas las ubicaciones">◎ <span class="lbl">Todas</span></button>
+</header>
+
+<aside id="panel" hidden>
+  <label>Distrito
+    <select id="selDistrito"><option value="">Todos los distritos</option></select>
+  </label>
+  <label class="chk"><input type="checkbox" id="chkDistritos" checked> Colores y límites de distritos</label>
+  <label class="chk"><input type="checkbox" id="chkMarcadores" checked> Mostrar marcadores</label>
+  <label class="chk"><input type="checkbox" id="chkAprox" checked> Incluir ubicaciones aproximadas</label>
+  <details id="pend"><summary>Pendientes de verificar (<span id="nPend">0</span>)</summary><ul id="pendList"></ul></details>
+</aside>
+
+<main id="map" aria-label="Mapa de Madrid con mesas electorales"></main>
+
+<div id="legend" aria-label="Leyenda">
+  <div><i class="dot ok"></i> Verificada</div>
+  <div><i class="dot ap"></i> Aproximada</div>
+  <div class="small">© OpenStreetMap</div>
+</div>
+<div id="toast" role="status" hidden></div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/leaflet.markercluster.min.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
