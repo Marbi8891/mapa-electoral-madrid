@@ -18,6 +18,14 @@
    "identificador_mesa": null,
    "enlace_google_documento": null,
    "observaciones": "Intercambiador de Moncloa (islas 2 y 3), c/ Princesa 89.",
+   "imagen_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Intercambiador_de_Moncloa%2C_2024_%2801%29.jpg/960px-Intercambiador_de_Moncloa%2C_2024_%2801%29.jpg",
+   "imagen_fuente": "https://commons.wikimedia.org/wiki/File:Intercambiador_de_Moncloa,_2024_(01).jpg",
+   "imagen_autor": "Draceane",
+   "imagen_licencia": "CC BY-SA 4.0",
+   "imagen_leyenda": "Interior del intercambiador de Moncloa",
+   "imagen_verificada": true,
+   "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=40.435343,-3.719161",
+   "estado_imagen": "verificada",
    "mesas_en_direccion": 1
   },
   {
@@ -35,6 +43,14 @@
    "identificador_mesa": null,
    "enlace_google_documento": "https://maps.app.goo.gl/zcz2wJDVfienKNSB8",
    "observaciones": "CC San Ignacio de Loyola, c/ Oliva de Plasencia 1 (punto del local dentro del CC).",
+   "imagen_url": null,
+   "imagen_fuente": null,
+   "imagen_autor": null,
+   "imagen_licencia": null,
+   "imagen_leyenda": null,
+   "imagen_verificada": false,
+   "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=40.378863,-3.779911",
+   "estado_imagen": "street_view",
    "mesas_en_direccion": 1
   },
   {
@@ -52,6 +68,14 @@
    "identificador_mesa": null,
    "enlace_google_documento": "https://maps.app.goo.gl/tyirk2XfcAwKiaGb6",
    "observaciones": "OSM sitúa el IES García Morato en c/ Soledad Cazorla 34, no en la dirección del documento. Revisar.",
+   "imagen_url": null,
+   "imagen_fuente": null,
+   "imagen_autor": null,
+   "imagen_licencia": null,
+   "imagen_leyenda": null,
+   "imagen_verificada": false,
+   "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=40.373854,-3.766985",
+   "estado_imagen": "street_view",
    "mesas_en_direccion": 1
   },
   {
@@ -69,6 +93,14 @@
    "identificador_mesa": null,
    "enlace_google_documento": "https://maps.app.goo.gl/ypSfXwWE8ocfQ7Yx7",
    "observaciones": "Coincide el número de portal.",
+   "imagen_url": null,
+   "imagen_fuente": null,
+   "imagen_autor": null,
+   "imagen_licencia": null,
+   "imagen_leyenda": null,
+   "imagen_verificada": false,
+   "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=40.377661,-3.768277",
+   "estado_imagen": "street_view",
    "mesas_en_direccion": 1
   },
   {
@@ -86,6 +118,14 @@
    "identificador_mesa": null,
    "enlace_google_documento": "https://maps.app.goo.gl/QmtVkw1gYCZjo9Rv6",
    "observaciones": "OSM solo localiza la calle (no el nº 2); punto sobre la calle.",
+   "imagen_url": null,
+   "imagen_fuente": null,
+   "imagen_autor": null,
+   "imagen_licencia": null,
+   "imagen_leyenda": null,
+   "imagen_verificada": false,
+   "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=40.372441,-3.773994",
+   "estado_imagen": "street_view",
    "mesas_en_direccion": 1
   },
   {
@@ -103,6 +143,14 @@
    "identificador_mesa": null,
    "enlace_google_documento": "https://maps.app.goo.gl/i1AMpJBTsQMrd3Nd9",
    "observaciones": "Portal nº 2 localizado; el sufijo «A» no se distingue en OSM.",
+   "imagen_url": null,
+   "imagen_fuente": null,
+   "imagen_autor": null,
+   "imagen_licencia": null,
+   "imagen_leyenda": null,
+   "imagen_verificada": false,
+   "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=40.384597,-3.765075",
+   "estado_imagen": "street_view",
    "mesas_en_direccion": 1
   },
   {
@@ -120,6 +168,14 @@
    "identificador_mesa": null,
    "enlace_google_documento": null,
    "observaciones": "Punto sobre la glorieta (OSM la sitúa en Moncloa-Aravaca).",
+   "imagen_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Centro_Comercial_Principe_Pio_Entrada.jpg/960px-Centro_Comercial_Principe_Pio_Entrada.jpg",
+   "imagen_fuente": "https://commons.wikimedia.org/wiki/File:Centro_Comercial_Principe_Pio_Entrada.jpg",
+   "imagen_autor": "FDV",
+   "imagen_licencia": "CC BY 3.0",
+   "imagen_leyenda": "Centro Comercial Príncipe Pío, junto a la glorieta",
+   "imagen_verificada": true,
+   "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=40.42051,-3.720398",
+   "estado_imagen": "verificada",
    "mesas_en_direccion": 1
   },
   {
@@ -137,6 +193,14 @@
    "identificador_mesa": null,
    "enlace_google_documento": "https://maps.app.goo.gl/R1PFoLNKa1PkdsG97",
    "observaciones": "Intercambiador de Plaza Elíptica.",
+   "imagen_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Madrid_-_Carabanchel%2C_Abrantes%2C_Intercambiador_de_Plaza_El%C3%ADptica_1.jpg/960px-Madrid_-_Carabanchel%2C_Abrantes%2C_Intercambiador_de_Plaza_El%C3%ADptica_1.jpg",
+   "imagen_fuente": "https://commons.wikimedia.org/wiki/File:Madrid_-_Carabanchel,_Abrantes,_Intercambiador_de_Plaza_El%C3%ADptica_1.jpg",
+   "imagen_autor": "Zarateman",
+   "imagen_licencia": "CC0",
+   "imagen_leyenda": "Intercambiador de Plaza Elíptica",
+   "imagen_verificada": true,
+   "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=40.384444,-3.718376",
+   "estado_imagen": "verificada",
    "mesas_en_direccion": 1
   },
   {
@@ -154,6 +218,14 @@
    "identificador_mesa": null,
    "enlace_google_documento": "https://maps.app.goo.gl/jgbbPLgeYRkAMjx86",
    "observaciones": "Centro de la plaza; punto exacto de la mesa no indicado.",
+   "imagen_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Madrid_-_Carabanchel%2C_Puerta_Bonita%2C_Plaza_de_Oporto.jpg/960px-Madrid_-_Carabanchel%2C_Puerta_Bonita%2C_Plaza_de_Oporto.jpg",
+   "imagen_fuente": "https://commons.wikimedia.org/wiki/File:Madrid_-_Carabanchel,_Puerta_Bonita,_Plaza_de_Oporto.jpg",
+   "imagen_autor": "Zarateman",
+   "imagen_licencia": "CC0",
+   "imagen_leyenda": "Plaza de Oporto",
+   "imagen_verificada": true,
+   "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=40.388084,-3.731782",
+   "estado_imagen": "verificada",
    "mesas_en_direccion": 1
   },
   {
@@ -171,6 +243,14 @@
    "identificador_mesa": null,
    "enlace_google_documento": "https://maps.app.goo.gl/8HsBXYT7mk1hV63o9",
    "observaciones": "CC Islazul, c/ Calderilla 1.",
+   "imagen_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/C.C._Islazul_%28Madrid%29_01.jpg/960px-C.C._Islazul_%28Madrid%29_01.jpg",
+   "imagen_fuente": "https://commons.wikimedia.org/wiki/File:C.C._Islazul_(Madrid)_01.jpg",
+   "imagen_autor": "Luis García (Zaqarbal)",
+   "imagen_licencia": "CC BY-SA 3.0",
+   "imagen_leyenda": "Centro comercial Islazul",
+   "imagen_verificada": true,
+   "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=40.363998,-3.737129",
+   "estado_imagen": "verificada",
    "mesas_en_direccion": 1
   },
   {
@@ -188,6 +268,14 @@
    "identificador_mesa": null,
    "enlace_google_documento": "https://maps.app.goo.gl/UGryV3a1Luf9q1XN8",
    "observaciones": "OSM no resuelve la esquina; punto sobre c/ Santa Petronila.",
+   "imagen_url": null,
+   "imagen_fuente": null,
+   "imagen_autor": null,
+   "imagen_licencia": null,
+   "imagen_leyenda": null,
+   "imagen_verificada": false,
+   "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=40.348891,-3.692163",
+   "estado_imagen": "street_view",
    "mesas_en_direccion": 1
   },
   {
@@ -205,6 +293,14 @@
    "identificador_mesa": null,
    "enlace_google_documento": "https://maps.app.goo.gl/cfFC2jxuSF5UC6oj8",
    "observaciones": "OSM no resuelve la esquina; punto sobre c/ Pícara Molinera.",
+   "imagen_url": null,
+   "imagen_fuente": null,
+   "imagen_autor": null,
+   "imagen_licencia": null,
+   "imagen_leyenda": null,
+   "imagen_verificada": false,
+   "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=40.355711,-3.702368",
+   "estado_imagen": "street_view",
    "mesas_en_direccion": 1
   },
   {
@@ -221,7 +317,15 @@
    "fuente_geocodificacion": null,
    "identificador_mesa": null,
    "enlace_google_documento": "https://maps.app.goo.gl/wakLhQ3t7wiBn5rW8",
-   "observaciones": "Sin coincidencia en OSM. Usar el enlace de Google del documento."
+   "observaciones": "Sin coincidencia en OSM. Usar el enlace de Google del documento.",
+   "imagen_url": null,
+   "imagen_fuente": null,
+   "imagen_autor": null,
+   "imagen_licencia": null,
+   "imagen_leyenda": null,
+   "imagen_verificada": false,
+   "street_view_url": null,
+   "estado_imagen": "sin_imagen"
   },
   {
    "id": 14,
@@ -238,6 +342,14 @@
    "identificador_mesa": null,
    "enlace_google_documento": "https://maps.app.goo.gl/oUAQXtRkdW2hfENX6",
    "observaciones": "Coincide el número de portal (CC Plaza Río 2).",
+   "imagen_url": null,
+   "imagen_fuente": null,
+   "imagen_autor": null,
+   "imagen_licencia": null,
+   "imagen_leyenda": null,
+   "imagen_verificada": false,
+   "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=40.390821,-3.701449",
+   "estado_imagen": "street_view",
    "mesas_en_direccion": 1
   },
   {
@@ -255,6 +367,14 @@
    "identificador_mesa": null,
    "enlace_google_documento": "https://maps.app.goo.gl/iF9ABG1W5cSwRsVS6",
    "observaciones": "Centro de la glorieta.",
+   "imagen_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Madrid_-_Glorieta_de_C%C3%A1diz_1.jpg/960px-Madrid_-_Glorieta_de_C%C3%A1diz_1.jpg",
+   "imagen_fuente": "https://commons.wikimedia.org/wiki/File:Madrid_-_Glorieta_de_C%C3%A1diz_1.jpg",
+   "imagen_autor": "Zarateman",
+   "imagen_licencia": "CC0",
+   "imagen_leyenda": "Glorieta de Cádiz",
+   "imagen_verificada": true,
+   "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=40.387958,-3.69955",
+   "estado_imagen": "verificada",
    "mesas_en_direccion": 1
   },
   {
@@ -271,7 +391,15 @@
    "fuente_geocodificacion": null,
    "identificador_mesa": null,
    "enlace_google_documento": "https://maps.app.goo.gl/dySjDjsrxGPt7P4i8",
-   "observaciones": "El documento solo trae un enlace corto de Google Maps, no resoluble desde aquí."
+   "observaciones": "El documento solo trae un enlace corto de Google Maps, no resoluble desde aquí.",
+   "imagen_url": null,
+   "imagen_fuente": null,
+   "imagen_autor": null,
+   "imagen_licencia": null,
+   "imagen_leyenda": null,
+   "imagen_verificada": false,
+   "street_view_url": null,
+   "estado_imagen": "sin_imagen"
   },
   {
    "id": 17,
@@ -288,6 +416,14 @@
    "identificador_mesa": null,
    "enlace_google_documento": "https://maps.app.goo.gl/WLRRvVSUNGmeyjVv8",
    "observaciones": "Coincide el número de portal.",
+   "imagen_url": null,
+   "imagen_fuente": null,
+   "imagen_autor": null,
+   "imagen_licencia": null,
+   "imagen_leyenda": null,
+   "imagen_verificada": false,
+   "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=40.394553,-3.695495",
+   "estado_imagen": "street_view",
    "mesas_en_direccion": 1
   },
   {
@@ -305,6 +441,14 @@
    "identificador_mesa": null,
    "enlace_google_documento": null,
    "observaciones": "Estación Sur de Autobuses, c/ Méndez Álvaro 83.",
+   "imagen_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Madrid_-_Estaci%C3%B3n_Sur_de_Autobuses_%28M%C3%A9ndez_%C3%81lvaro%29_1.JPG/960px-Madrid_-_Estaci%C3%B3n_Sur_de_Autobuses_%28M%C3%A9ndez_%C3%81lvaro%29_1.JPG",
+   "imagen_fuente": "https://commons.wikimedia.org/wiki/File:Madrid_-_Estaci%C3%B3n_Sur_de_Autobuses_(M%C3%A9ndez_%C3%81lvaro)_1.JPG",
+   "imagen_autor": "Zarateman",
+   "imagen_licencia": "CC0",
+   "imagen_leyenda": "Estación Sur de Autobuses",
+   "imagen_verificada": true,
+   "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=40.394298,-3.677671",
+   "estado_imagen": "verificada",
    "mesas_en_direccion": 1
   },
   {
@@ -322,6 +466,14 @@
    "identificador_mesa": null,
    "enlace_google_documento": null,
    "observaciones": "CC Madrid Sur, a pocos metros de la Asamblea de Madrid.",
+   "imagen_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Madrid_-_Puente_de_Vallecas_-_Centro_Comercial_Madrid_Sur_3.JPG/960px-Madrid_-_Puente_de_Vallecas_-_Centro_Comercial_Madrid_Sur_3.JPG",
+   "imagen_fuente": "https://commons.wikimedia.org/wiki/File:Madrid_-_Puente_de_Vallecas_-_Centro_Comercial_Madrid_Sur_3.JPG",
+   "imagen_autor": "Zarateman",
+   "imagen_licencia": "CC0",
+   "imagen_leyenda": "Centro Comercial Madrid Sur",
+   "imagen_verificada": true,
+   "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=40.381186,-3.663091",
+   "estado_imagen": "verificada",
    "mesas_en_direccion": 1
   },
   {
@@ -339,6 +491,14 @@
    "identificador_mesa": null,
    "enlace_google_documento": null,
    "observaciones": "Punto en la plaza; paradas exactas no indicadas.",
+   "imagen_url": null,
+   "imagen_fuente": null,
+   "imagen_autor": null,
+   "imagen_licencia": null,
+   "imagen_leyenda": null,
+   "imagen_verificada": false,
+   "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=40.406317,-3.670838",
+   "estado_imagen": "street_view",
    "mesas_en_direccion": 1
   },
   {
@@ -355,7 +515,15 @@
    "fuente_geocodificacion": null,
    "identificador_mesa": null,
    "enlace_google_documento": null,
-   "observaciones": "OSM no devuelve la estación con esta búsqueda."
+   "observaciones": "OSM no devuelve la estación con esta búsqueda.",
+   "imagen_url": null,
+   "imagen_fuente": null,
+   "imagen_autor": null,
+   "imagen_licencia": null,
+   "imagen_leyenda": null,
+   "imagen_verificada": false,
+   "street_view_url": null,
+   "estado_imagen": "sin_imagen"
   },
   {
    "id": 22,
@@ -372,6 +540,14 @@
    "identificador_mesa": null,
    "enlace_google_documento": null,
    "observaciones": "Coincide el número de portal.",
+   "imagen_url": null,
+   "imagen_fuente": null,
+   "imagen_autor": null,
+   "imagen_licencia": null,
+   "imagen_leyenda": null,
+   "imagen_verificada": false,
+   "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=40.372807,-3.657262",
+   "estado_imagen": "street_view",
    "mesas_en_direccion": 1
   },
   {
@@ -389,6 +565,14 @@
    "identificador_mesa": null,
    "enlace_google_documento": null,
    "observaciones": "CC La Gavia, c/ Adolfo Bioy Casares 2.",
+   "imagen_url": null,
+   "imagen_fuente": null,
+   "imagen_autor": null,
+   "imagen_licencia": null,
+   "imagen_leyenda": null,
+   "imagen_verificada": false,
+   "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=40.36816,-3.597554",
+   "estado_imagen": "street_view",
    "mesas_en_direccion": 1
   },
   {
@@ -405,7 +589,15 @@
    "fuente_geocodificacion": null,
    "identificador_mesa": null,
    "enlace_google_documento": null,
-   "observaciones": "OSM no resuelve el cruce."
+   "observaciones": "OSM no resuelve el cruce.",
+   "imagen_url": null,
+   "imagen_fuente": null,
+   "imagen_autor": null,
+   "imagen_licencia": null,
+   "imagen_leyenda": null,
+   "imagen_verificada": false,
+   "street_view_url": null,
+   "estado_imagen": "sin_imagen"
   },
   {
    "id": 25,
@@ -422,6 +614,14 @@
    "identificador_mesa": null,
    "enlace_google_documento": null,
    "observaciones": "Punto de la vía «Intercambiador de Pavones».",
+   "imagen_url": null,
+   "imagen_fuente": null,
+   "imagen_autor": null,
+   "imagen_licencia": null,
+   "imagen_leyenda": null,
+   "imagen_verificada": false,
+   "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=40.400426,-3.635003",
+   "estado_imagen": "street_view",
    "mesas_en_direccion": 1
   },
   {
@@ -439,6 +639,14 @@
    "identificador_mesa": null,
    "enlace_google_documento": null,
    "observaciones": "Calle larga; punto en un tramo.",
+   "imagen_url": null,
+   "imagen_fuente": null,
+   "imagen_autor": null,
+   "imagen_licencia": null,
+   "imagen_leyenda": null,
+   "imagen_verificada": false,
+   "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=40.437206,-3.65313",
+   "estado_imagen": "street_view",
    "mesas_en_direccion": 1
   },
   {
@@ -456,6 +664,14 @@
    "identificador_mesa": null,
    "enlace_google_documento": null,
    "observaciones": "CC Alcalá Norte, c/ Alcalá 414.",
+   "imagen_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Madrid_-_Centro_Comercial_Alcal%C3%A1_Norte.JPG/960px-Madrid_-_Centro_Comercial_Alcal%C3%A1_Norte.JPG",
+   "imagen_fuente": "https://commons.wikimedia.org/wiki/File:Madrid_-_Centro_Comercial_Alcal%C3%A1_Norte.JPG",
+   "imagen_autor": "Zarateman",
+   "imagen_licencia": "CC0",
+   "imagen_leyenda": "Centro Comercial Alcalá Norte",
+   "imagen_verificada": true,
+   "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=40.436897,-3.638077",
+   "estado_imagen": "verificada",
    "mesas_en_direccion": 1
   },
   {
@@ -473,6 +689,14 @@
    "identificador_mesa": null,
    "enlace_google_documento": null,
    "observaciones": "CC Las Rosas.",
+   "imagen_url": null,
+   "imagen_fuente": null,
+   "imagen_autor": null,
+   "imagen_licencia": null,
+   "imagen_leyenda": null,
+   "imagen_verificada": false,
+   "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=40.418176,-3.621583",
+   "estado_imagen": "street_view",
    "mesas_en_direccion": 1
   },
   {
@@ -490,6 +714,14 @@
    "identificador_mesa": null,
    "enlace_google_documento": null,
    "observaciones": "CC Arturo Soria Plaza; el hospital no se localizó.",
+   "imagen_url": null,
+   "imagen_fuente": null,
+   "imagen_autor": null,
+   "imagen_licencia": null,
+   "imagen_leyenda": null,
+   "imagen_verificada": false,
+   "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=40.449983,-3.650756",
+   "estado_imagen": "street_view",
    "mesas_en_direccion": 1
   },
   {
@@ -507,6 +739,14 @@
    "identificador_mesa": null,
    "enlace_google_documento": null,
    "observaciones": "Calle larga; punto en un tramo.",
+   "imagen_url": null,
+   "imagen_fuente": null,
+   "imagen_autor": null,
+   "imagen_licencia": null,
+   "imagen_leyenda": null,
+   "imagen_verificada": false,
+   "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=40.469616,-3.635979",
+   "estado_imagen": "street_view",
    "mesas_en_direccion": 1
   },
   {
@@ -524,6 +764,14 @@
    "identificador_mesa": null,
    "enlace_google_documento": null,
    "observaciones": "Avenida larga; punto en el tramo de Hortaleza.",
+   "imagen_url": null,
+   "imagen_fuente": null,
+   "imagen_autor": null,
+   "imagen_licencia": null,
+   "imagen_leyenda": null,
+   "imagen_verificada": false,
+   "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=40.472047,-3.661237",
+   "estado_imagen": "street_view",
    "mesas_en_direccion": 1
   },
   {
@@ -541,6 +789,14 @@
    "identificador_mesa": null,
    "enlace_google_documento": null,
    "observaciones": "Complejo mk2 Palacio de Hielo, c/ Silvano.",
+   "imagen_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Palacio_de_Hielo_%28Madrid_-_2022%29.jpg/960px-Palacio_de_Hielo_%28Madrid_-_2022%29.jpg",
+   "imagen_fuente": "https://commons.wikimedia.org/wiki/File:Palacio_de_Hielo_(Madrid_-_2022).jpg",
+   "imagen_autor": "KingValid04",
+   "imagen_licencia": "CC BY-SA 4.0",
+   "imagen_leyenda": "Palacio de Hielo",
+   "imagen_verificada": true,
+   "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=40.463141,-3.636102",
+   "estado_imagen": "verificada",
    "mesas_en_direccion": 1
   },
   {
@@ -557,7 +813,15 @@
    "fuente_geocodificacion": null,
    "identificador_mesa": null,
    "enlace_google_documento": null,
-   "observaciones": "Descripción demasiado ambigua (texto incompleto en el documento)."
+   "observaciones": "Descripción demasiado ambigua (texto incompleto en el documento).",
+   "imagen_url": null,
+   "imagen_fuente": null,
+   "imagen_autor": null,
+   "imagen_licencia": null,
+   "imagen_leyenda": null,
+   "imagen_verificada": false,
+   "street_view_url": null,
+   "estado_imagen": "sin_imagen"
   },
   {
    "id": 34,
@@ -574,6 +838,14 @@
    "identificador_mesa": null,
    "enlace_google_documento": null,
    "observaciones": "Avenida larga; punto junto a Alcampo (Av. Monasterio de El Escorial 35).",
+   "imagen_url": null,
+   "imagen_fuente": null,
+   "imagen_autor": null,
+   "imagen_licencia": null,
+   "imagen_leyenda": null,
+   "imagen_verificada": false,
+   "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=40.504126,-3.703086",
+   "estado_imagen": "street_view",
    "mesas_en_direccion": 1
   },
   {
@@ -590,7 +862,15 @@
    "fuente_geocodificacion": null,
    "identificador_mesa": null,
    "enlace_google_documento": null,
-   "observaciones": "OSM solo halla una c/ Costa del Sol en Hortaleza (Pinar del Rey), no en Mirasierra."
+   "observaciones": "OSM solo halla una c/ Costa del Sol en Hortaleza (Pinar del Rey), no en Mirasierra.",
+   "imagen_url": null,
+   "imagen_fuente": null,
+   "imagen_autor": null,
+   "imagen_licencia": null,
+   "imagen_leyenda": null,
+   "imagen_verificada": false,
+   "street_view_url": null,
+   "estado_imagen": "sin_imagen"
   },
   {
    "id": 36,
@@ -607,6 +887,14 @@
    "identificador_mesa": null,
    "enlace_google_documento": null,
    "observaciones": "Juzgados de Plaza de Castilla.",
+   "imagen_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Madrid_-_Juzgados_de_la_Plaza_de_Castilla_1.jpg/960px-Madrid_-_Juzgados_de_la_Plaza_de_Castilla_1.jpg",
+   "imagen_fuente": "https://commons.wikimedia.org/wiki/File:Madrid_-_Juzgados_de_la_Plaza_de_Castilla_1.jpg",
+   "imagen_autor": "Zarateman",
+   "imagen_licencia": "CC0",
+   "imagen_leyenda": "Juzgados de Plaza de Castilla",
+   "imagen_verificada": true,
+   "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=40.464903,-3.690206",
+   "estado_imagen": "verificada",
    "mesas_en_direccion": 1
   },
   {
@@ -624,6 +912,14 @@
    "identificador_mesa": null,
    "enlace_google_documento": "https://maps.app.goo.gl/AHyQJX69FQf7qSQg9",
    "observaciones": "Centro de la plaza.",
+   "imagen_url": null,
+   "imagen_fuente": null,
+   "imagen_autor": null,
+   "imagen_licencia": null,
+   "imagen_leyenda": null,
+   "imagen_verificada": false,
+   "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=40.468298,-3.677763",
+   "estado_imagen": "street_view",
    "mesas_en_direccion": 1
   },
   {
@@ -641,6 +937,14 @@
    "identificador_mesa": null,
    "enlace_google_documento": null,
    "observaciones": "Estación Nuevos Ministerios; salida concreta no indicada.",
+   "imagen_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Estaci%C3%B3n_de_Nuevos_Ministerios_%28Madrid%29_01.jpg/960px-Estaci%C3%B3n_de_Nuevos_Ministerios_%28Madrid%29_01.jpg",
+   "imagen_fuente": "https://commons.wikimedia.org/wiki/File:Estaci%C3%B3n_de_Nuevos_Ministerios_(Madrid)_01.jpg",
+   "imagen_autor": "Luis García from Madrid (Spain)",
+   "imagen_licencia": "CC BY-SA 2.0",
+   "imagen_leyenda": "Interior de la estación de Nuevos Ministerios",
+   "imagen_verificada": true,
+   "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=40.446604,-3.692189",
+   "estado_imagen": "verificada",
    "mesas_en_direccion": 1
   },
   {
@@ -658,6 +962,14 @@
    "identificador_mesa": null,
    "enlace_google_documento": null,
    "observaciones": "Se asume calle de Goya (Madrid); coincide el número.",
+   "imagen_url": null,
+   "imagen_fuente": null,
+   "imagen_autor": null,
+   "imagen_licencia": null,
+   "imagen_leyenda": null,
+   "imagen_verificada": false,
+   "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=40.425272,-3.682353",
+   "estado_imagen": "street_view",
    "mesas_en_direccion": 1
   },
   {
@@ -675,6 +987,14 @@
    "identificador_mesa": null,
    "enlace_google_documento": null,
    "observaciones": "Centro de la plaza.",
+   "imagen_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Plaza_de_Manuel_Becerra_%28Madrid%29_01.jpg/960px-Plaza_de_Manuel_Becerra_%28Madrid%29_01.jpg",
+   "imagen_fuente": "https://commons.wikimedia.org/wiki/File:Plaza_de_Manuel_Becerra_(Madrid)_01.jpg",
+   "imagen_autor": "Luis García (Zaqarbal)",
+   "imagen_licencia": "CC BY-SA 3.0 es",
+   "imagen_leyenda": "Plaza de Manuel Becerra",
+   "imagen_verificada": true,
+   "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=40.427805,-3.668511",
+   "estado_imagen": "verificada",
    "mesas_en_direccion": 1
   }
  ]

@@ -25,3 +25,6 @@ python3 -m http.server 8000   # abrir http://localhost:8000
 - **aproximada**: solo calle, plaza o glorieta; el punto no es la ubicación exacta de la mesa.
 - **pendiente**: sin coincidencia fiable; no se dibuja, aparece en la lista de pendientes.
 Para corregir un punto, edita `lat`/`lon`/estado en `scripts/build_data.py` y ejecútalo.
+
+## Fotografías
+Campos `imagen_*` en `data/mesas-electorales.json`. 13 ubicaciones tienen foto de Wikimedia Commons (licencia y autor en cada ficha); el resto muestra «Fotografía no disponible» y, si hay coordenadas, un botón a Street View. Para añadir una foto, rellena `IMG` en `scripts/build_data.py` solo si el archivo nombra ese edificio y lo has visto.

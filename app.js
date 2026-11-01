@@ -35,14 +35,21 @@ const addrText = o => o.direccion_original || `${o.nombre}, Madrid`;
 function popupHtml(o) {
   const ap = o.estado_geocodificacion !== 'verificada';
   const estado = { verificada: 'Coordenadas verificadas', aproximada: 'Ubicación aproximada', pendiente: 'Pendiente de verificar' }[o.estado_geocodificacion];
+  const foto = o.imagen_verificada
+    ? `<figure class="foto"><a href="${esc(o.imagen_fuente)}" target="_blank" rel="noopener" title="Ver imagen original"><img src="${esc(o.imagen_url)}" alt="${esc(o.imagen_leyenda)}" loading="lazy" width="320" height="200"></a>
+       <figcaption>${esc(o.imagen_leyenda)} · ${esc(o.imagen_autor)} · ${esc(o.imagen_licencia)} · Wikimedia Commons</figcaption></figure>`
+    : `<div class="foto nofoto">Fotografía no disponible</div>`;
+  const dir = o.latitud != null ? `https://www.google.com/maps/dir/?api=1&destination=${o.latitud},${o.longitud}` : null;
   return `<div class="pop"><h3>${esc(o.nombre)}</h3>
+  ${foto}
   <p><b>Dirección:</b> ${o.direccion_original ? esc(o.direccion_original) : '<i>no indicada en el documento</i>'}</p>
-  <p><b>Distrito:</b> ${esc(o.distrito || '—')} <span style="color:#5b6675">· zona del documento: ${esc(o.zona_documento)}</span></p>
-  <p><b>ID:</b> ${o.id} <span style="color:#5b6675">(asignado al inventariar; el documento no numera las mesas)</span></p>
+  <p><b>Distrito:</b> ${esc(o.distrito || '—')} <span class="mut">· zona del documento: ${esc(o.zona_documento)}</span></p>
+  <p><b>ID:</b> ${o.id} <span class="mut">(asignado al inventariar; el documento no numera las mesas)</span></p>
   <p><span class="tag ${ap ? 'ap' : ''}">${estado}</span></p>
   ${o.observaciones ? `<p>${esc(o.observaciones)}</p>` : ''}
-  ${o.fuente_geocodificacion ? `<p style="color:#5b6675;font-size:12px">Fuente: ${esc(o.fuente_geocodificacion)}</p>` : ''}
-  <div class="acts"><a href="${esc(gmapsUrl(o))}" target="_blank" rel="noopener">Abrir en Google Maps</a><button type="button" data-copy="${o.id}">Copiar dirección</button></div></div>`;
+  ${o.fuente_geocodificacion ? `<p class="mut" style="font-size:12px">Fuente: ${esc(o.fuente_geocodificacion)}</p>` : ''}
+  <div class="acts"><a href="${esc(gmapsUrl(o))}" target="_blank" rel="noopener">Abrir en Google Maps</a>${dir ? `<a href="${esc(dir)}" target="_blank" rel="noopener">Cómo llegar</a>` : ''}</div>
+  <div class="acts">${o.street_view_url && !o.imagen_verificada ? `<a href="${esc(o.street_view_url)}" target="_blank" rel="noopener">Ver en Street View</a>` : ''}${o.imagen_verificada ? `<a href="${esc(o.imagen_fuente)}" target="_blank" rel="noopener">Ver imagen original</a>` : ''}<button type="button" data-copy="${o.id}">Copiar dirección</button></div></div>`;
 }
 
 document.addEventListener('click', async e => {
@@ -57,7 +64,7 @@ function buildMarkers() {
   cluster = L.markerClusterGroup({ showCoverageOnHover: false, maxClusterRadius: 38, spiderfyOnMaxZoom: true, disableClusteringAtZoom: 16 });
   DATA.filter(o => o.latitud != null).forEach(o => {
     const m = L.marker([o.latitud, o.longitud], { icon: pinIcon(o.estado_geocodificacion), title: o.nombre, riseOnHover: true });
-    m.bindPopup(() => popupHtml(o), { maxWidth: 300, autoPan: true });
+    m.bindPopup(() => popupHtml(o), { maxWidth: 340, minWidth: 250, autoPan: true });
     m.on('popupopen', () => m.setIcon(pinIcon(o.estado_geocodificacion, true)));
     m.on('popupclose', () => m.setIcon(pinIcon(o.estado_geocodificacion, false)));
     markers.set(o.id, m);
